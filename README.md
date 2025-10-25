@@ -16,3 +16,5 @@ https://github.com/VARSHITHA-DARMINI/1927_B30_PDS/blob/main/Lab7.ipynb
 https://github.com/VARSHITHA-DARMINI/1927_B30_PDS/blob/main/lab8.ipynb
 
 https://github.com/VARSHITHA-DARMINI/1927_B30_PDS/blob/main/Lab9.ipynb
+
+https://github.com/VARSHITHA-DARMINI/1927_B30_PDS/blob/main/Copy_of_lab10.ipynb
